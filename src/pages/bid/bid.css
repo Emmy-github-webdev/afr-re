@@ -1,0 +1,26 @@
+.main-content {
+  width: 80vw !important;
+  position: absolute;
+  right: 0;
+  text-align: center;
+  min-height: 89vh;
+}
+.main-body {
+  margin: 2vh 8vw;
+  width: 80%;
+}
+.my-input-container {
+  width: 100%;
+  padding: 6px;
+}
+
+.my-input-container input[type=text] {
+
+  border: none;
+  font-size: 17px;
+  width: 90%;
+}
+.my-input-container img {
+  background: #a14807;
+  padding: 4px 6px;
+}

@@ -1,0 +1,52 @@
+.sidebar-container {
+  background: #000;
+  width: 20vw;
+  position: fixed;
+  left: 0;
+  height: 100%;
+}
+
+.pat-bid-box {
+  background: #fff;
+  width: 45%;
+  margin: 8% 25%;
+  border-radius: 4px;
+  padding: 8px;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.pat-bid-box span {
+  margin: 4px;
+  color: #000;
+}
+
+.pat-bid-box span:nth-child(2){
+  color: #fff;
+  background: #a14807;
+  border-radius: 7px;
+  padding: 4px 1.4vw;
+}
+
+.sidebar-body {
+  color: #fff;
+  margin: 6% 20%;
+}
+
+.sidebar-body ul {
+  text-decoration: none;
+}
+.sidebar-body ul li {
+  list-style-type: none;
+}
+
+.progress {
+
+}
+
+.progress span {
+  background: #a14807;
+  height: 1px;
+  margin: 2px;
+}
+
